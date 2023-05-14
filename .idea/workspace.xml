@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fde6d024-3e99-4d61-87c7-f054e86f8cf0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MbNtacF8aSCrSJ6y6yt5AS1ZOT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exams" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fde6d024-3e99-4d61-87c7-f054e86f8cf0" name="Default Changelist" comment="" />
+      <created>1678032538014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678032538014</updated>
+      <workItem from="1678032539326" duration="8717000" />
+      <workItem from="1678208271379" duration="642000" />
+      <workItem from="1679056931362" duration="5963000" />
+      <workItem from="1679244773691" duration="2739000" />
+      <workItem from="1679248392677" duration="36000" />
+      <workItem from="1681042314228" duration="7952000" />
+      <workItem from="1682444037119" duration="3495000" />
+      <workItem from="1682459327598" duration="72000" />
+      <workItem from="1682459455991" duration="136000" />
+      <workItem from="1682506349732" duration="18589000" />
+      <workItem from="1682767562592" duration="10000" />
+      <workItem from="1684069997584" duration="132000" />
+      <workItem from="1684070149487" duration="9967000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
